@@ -4,7 +4,7 @@ By Ambalika Roy; aroy13
 Summer 2020
 
 
-View visualization by clicking here : [Final Project for CS 498 - CO2 Emissions of Vehicles Based on Rated Horsepower](https://ambalikaroy.github.io/cs498-visualization-project/index.html)
+View visualization by clicking here : [Final Project for CS 498 - CO2 Emissions of Vehicles Based on Rated Horsepower](https://ambalikaroy.github.io/index.html)
 
 
 ### About the Visualization
