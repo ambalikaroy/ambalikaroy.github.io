@@ -2,7 +2,7 @@
 
 ## About this Visualization
 
-This visualization project was created by D3.js as the final project for CS 498 Data Visualization, UIUC and can be viewed at https://ambalikaroy.github.io/cs498-final-project/index.html
+This visualization project was created by D3.js as the final project for CS 498 Data Visualization, UIUC and can be viewed at [Final Project for CS 498 - World Happiness Indicator](https://ambalikaroy.github.io/cs498-final-project/index.html)
 
 ## Hybrid Structure
 
